@@ -1,6 +1,13 @@
 # CrystalPeaks
 
-CrystalPeaks (formerly MiniMeters) is a high-performance, modular audio metering system built with JUCE. It provides real-time visual analysis of audio signals with a focus on aesthetics and modularity.
+CrystalPeaks is a high-performance, modular audio metering system built with JUCE. It provides real-time visual analysis of audio signals with a focus on aesthetics and modularity.
+
+[![Download CrystalPeaks](https://img.shields.io/badge/Download-CrystalPeaks-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/132KTLBJNvnsYbqz4O4RLeSL9_MlU0pmj/view?usp=drive_link)
+
+## Interface
+
+![CrystalPeaks Interface 1](resources/module_snap.png)
+![CrystalPeaks Interface 2](resources/module_snap1.png)
 
 ## Features
 
