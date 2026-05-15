@@ -1,0 +1,29 @@
+# Build directories
+build/
+bin/
+obj/
+x64/
+x86/
+
+# IDE files
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+.idea/
+.vscode/
+
+# JUCE artifacts
+JuceLibraryCode/
+/JUCE/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# User specific
+*.user
+*.suo
+*.vshost.exe
+*.vshost.exe.manifest
