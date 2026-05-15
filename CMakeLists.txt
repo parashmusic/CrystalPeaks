@@ -9,6 +9,8 @@ add_subdirectory(../JUCE JUCE)
 juce_add_gui_app(MiniMeters
     PRODUCT_NAME "CrystalPeaks"
     COMPANY_NAME "Spectrum"
+    ICON_BIG resources/logo.png
+    ICON_SMALL resources/logo.png
 )
 
 target_sources(MiniMeters PRIVATE
