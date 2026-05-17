@@ -63,3 +63,8 @@ The executable will be generated at:
 - **Audio Engine**: Lock-free ring buffer architecture for high-performance audio processing.
 - **UI Architecture**: Flex-ratio based `ModuleStrip` container for responsive layout management.
 - **Crossover Processing**: Uses Linkwitz-Riley filters for accurate multiband analysis.
+
+
+---
+
+Designed and developed by **Parash**
